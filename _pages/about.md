@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  3rd year Astrophysics student at the University of Edinburgh 
 
 profile:
   align: middle
