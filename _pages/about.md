@@ -5,6 +5,7 @@ permalink: /
 subtitle:  3rd year Astrophysics student at the University of Edinburgh 
 
 profile:
+  enabled: false
   align: middle
   image: ainslieroensdorf.jpg
   image_circular: false # crops the image to make it circular
@@ -23,5 +24,14 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
+
+
+<div class="row justify-content-center">
+    <div class="col-12 p-0">
+        {% include figure.html 
+           path="assets/img/ainslieroensdorf.jpg" 
+           class="img-fluid w-100 rounded-0 z-depth-1" 
+           alt="Landscape photography header" %}
+    </div>
+</div>
 
