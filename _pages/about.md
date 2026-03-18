@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: about
 permalink: /
 subtitle:  3rd year Astrophysics student at the University of Edinburgh 
