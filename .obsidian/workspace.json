@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/categories/example-category/_index.md",
+                "file": "config/_default/config.toml",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "config"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "18c6f2869a619c84",
   "lastOpenFiles": [
-    "config/_default/params.toml.md",
+    "config/_default/params.toml",
     "content/categories/example-category/_index.md",
+    "config/_default/params.toml.md",
     "content/_index.md",
     "content/page/search/index.md",
     "content/page/links/index.md",
