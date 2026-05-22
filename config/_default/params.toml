@@ -20,7 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = "🍥"
     subtitle = "Welcome to my website."
-    avatar   = "img/avatar.png"
+    avatar   = "img/profile.jpg"
 
 [article]
     headingAnchor = false
