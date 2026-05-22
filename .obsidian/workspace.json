@@ -191,13 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18c6f2869a619c84",
+  "active": "7c4e3f3145988723",
   "lastOpenFiles": [
-    "content/post/image-gallery/1.jpg",
-    "content/post/hello-world/index.md",
-    "content/post/image-gallery/index.md",
-    "content/post/hello-world/cover.jpg",
     "README.md",
-    "Untitled.base"
+    "content/post/hello-world/cover.jpg",
+    "content/page/search/index.md",
+    "content/page/links/index.md",
+    "content/page/archives/index.md",
+    "Untitled.base",
+    "content/post/hello-world/index.md",
+    "content/post/image-gallery/1.jpg",
+    "content/post/image-gallery/index.md"
   ]
 }
