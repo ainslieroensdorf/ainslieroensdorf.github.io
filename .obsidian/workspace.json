@@ -11,14 +11,12 @@
             "id": "18c6f2869a619c84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "config/_default/params.toml",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/profile.jpg"
               },
-              "icon": "lucide-file",
-              "title": "params"
+              "icon": "lucide-image",
+              "title": "profile"
             }
           }
         ]
@@ -193,6 +191,7 @@
   },
   "active": "18c6f2869a619c84",
   "lastOpenFiles": [
+    "config/_default/params.toml",
     "config/_default/module.toml",
     "config/_default/menu.toml",
     "config/_default/markup.toml",
@@ -201,7 +200,6 @@
     "assets/img/profile.jpg",
     "config/_default/related.toml",
     "config/_default/permalinks.toml",
-    "config/_default/params.toml",
     "assets/img/avatar.png",
     "assets/img/P1636633.jpg",
     "P1636633.jpg",
