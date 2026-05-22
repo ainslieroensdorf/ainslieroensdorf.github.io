@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/_default/menu.toml",
+                "file": "config/_default/params.toml",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "menu"
+              "title": "params"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "18c6f2869a619c84",
   "lastOpenFiles": [
+    "config/_default/module.toml",
+    "config/_default/menu.toml",
     "config/_default/markup.toml",
     "config/_default/config.toml",
     "config/_default/params.toml",
