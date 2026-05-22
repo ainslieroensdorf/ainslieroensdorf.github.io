@@ -13,12 +13,12 @@
     url        = "https://www.youtube.com/@ainsliekr"
 
     [social.params]
-        icon = "brand-github"
+        icon = "brand-youtube"
 
 [[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
+    identifier = "linkedin"
+    name       = "LinkedIn"
+    url        = "https://www.linkedin.com/in/ainslieroensdorf/"
 
     [social.params]
-        icon = "brand-twitter"
+        icon = "brand-linkedin"
