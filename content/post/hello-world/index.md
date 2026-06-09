@@ -1,13 +1,20 @@
 ---
-title: Hello World!
-description: Welcome to my website!
-slug: hello-world
-date: 2026-05-21 00:22:28+0100
-image: 
+title: A Weekend in Barra
+description: A weekend trip to the remote Scottish Isle of Barra in November 2025.
+slug: barra
+date: 2026-06-09 00:21:28+0100
+image:
 categories:
-    - Test
+  - trips
 tags:
-    - Test
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+  - trips
+  - aviation
+  - Scotland
+weight: 1
 ---
-Welcome to my website! Trying this out - we'll see how it goes! Test 12. 123456789.
+
+
+
+![image](https://images.ainslie-roensdorf.com/2026/06/1781038208205-r2hjz2oi.webp)
+
+Actually this works fine...

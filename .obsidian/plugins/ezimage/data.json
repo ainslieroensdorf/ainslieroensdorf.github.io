@@ -1,0 +1,18 @@
+{
+  "provider": "r2",
+  "r2": {
+    "accountId": "a6575afcdf79a89e4ec0b0d54c2046b2",
+    "accessKeyId": "22a1bb3a9d00f3c69c880b06fb9057c7",
+    "secretAccessKey": "4718352918fe9dd61529f317aff5659b3978ca5ad64d9c4d928f63c79b3a1f55",
+    "bucketName": "images",
+    "publicUrl": "https://images.ainslie-roensdorf.com"
+  },
+  "pathTemplate": "{yyyy}/{MM}/{timestamp}-{random}.{ext}",
+  "compress": true,
+  "maxWidth": 1920,
+  "quality": 85,
+  "maxFileSizeMB": 0,
+  "stripExif": true,
+  "localSaveByDefault": false,
+  "language": "auto"
+}
