@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/barra/index.md",
+                "file": "config/_default/related.toml",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "related"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +194,7 @@
   },
   "active": "18c6f2869a619c84",
   "lastOpenFiles": [
+    "content/post/barra/index.md",
     "public/1781043381249-fu7nbxg6_568227801969510572.webp",
     "public/1781043381249-fu7nbxg6_568227801969510572_hu_97d193ed2c638cd4.webp",
     "resources/_gen/images/1781043381249-fu7nbxg6_568227801969510572_hu_97d193ed2c638cd4.webp",
@@ -205,7 +205,6 @@
     "resources/_gen/images/1781043353994-wgib2t2t_2023037824593754901_hu_c37dd5bb532c5c53.webp",
     "public/1781043353994-wgib2t2t_2023037824593754901_hu_3585243ca67a119a.webp",
     "resources/_gen/images/1781043353994-wgib2t2t_2023037824593754901_hu_3585243ca67a119a.webp",
-    "public/1781043173836-f64xfml0_9967704578164731562.webp",
     "public/photos/index.xml",
     "public/photos/page/1/index.html",
     "public/photos/page/1",
@@ -217,7 +216,6 @@
     "public/scss/style.min.3a4895773b8c5b5c8e81ed3e994cc8bc4c853e40cf4f2768cbd3be1417de1768.css",
     "public/scss/style.min.b8f52ebcc19ea7f5801e85231dd52d91d59a56d3267d1ba52292ba1665e25178.css",
     "public/scss/style.min.d42698d19b44c3dcef87304931f89e6c6d671d33fbaea529cfad7b8ad8105719.css",
-    "content/post/barra/index.md",
     "content/post/hello-world/index.md",
     "images.ainslie-roensdorf.com/2026/06/1781036904435-ab0eadm6.webp.md",
     "assets/scss/main.scss.md",
