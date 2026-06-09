@@ -18,9 +18,9 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "📷"
-    subtitle = "Welcome to my website."
-    avatar   = "img/profile.jpg"
+    emoji    = ""
+    subtitle = "My personal home page for photo, video, and blogging."
+    avatar   = "https://images.ainslie-roensdorf.com/2026/06/1781038999043-6voqqsgd.webp"
 
 [article]
     headingAnchor = false

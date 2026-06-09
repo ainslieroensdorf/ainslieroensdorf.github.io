@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/hello-world/index.md",
+                "file": "config/_default/params.toml",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "params"
             }
           }
         ]
@@ -192,8 +192,21 @@
       "custom-image-auto-uploader:Custom Image Auto Uploader": false
     }
   },
-  "active": "f531c3a71a621168",
+  "active": "18c6f2869a619c84",
   "lastOpenFiles": [
+    "layouts/shortcodes/location.html",
+    "layouts/shortcodes",
+    "layouts",
+    "layouts/partials/components/details.html",
+    "layouts/partials/components/header.html",
+    "layouts/partials/components",
+    "layouts/partials",
+    "config/_default/config.toml",
+    "config/_default/_languages.toml",
+    "config/_default/related.toml",
+    "config/_default/permalinks.toml",
+    "content/post/hello-world/index.md",
+    "assets/img/profile.jpg",
     "public/1781038208205-r2hjz2oi_8652930798769228158.webp",
     "public/1781038208205-r2hjz2oi_8652930798769228158_hu_65682f022aef14c2.webp",
     "resources/_gen/images/1781038208205-r2hjz2oi_8652930798769228158_hu_65682f022aef14c2.webp",
@@ -203,20 +216,7 @@
     "public/1781037973789-uhd3bcj8_316326792272023570_hu_65682f022aef14c2.webp",
     "resources/_gen/images/1781037973789-uhd3bcj8_316326792272023570_hu_65682f022aef14c2.webp",
     "public/1781037973789-uhd3bcj8_316326792272023570_hu_33f1efa6f03881ab.webp",
-    "resources/_gen/images/1781037973789-uhd3bcj8_316326792272023570_hu_33f1efa6f03881ab.webp",
-    "public/1781037803027-gm437yob_5500718719445777431.webp",
-    "public/tags/scotland/page/1/index.html",
-    "public/tags/scotland/page/1",
-    "public/tags/scotland/index.xml",
-    "public/tags/scotland/page",
-    "public/tags/scotland/index.html",
-    "public/tags/scotland",
-    "public/tags/aviation/page/1/index.html",
-    "public/tags/aviation/page/1",
-    "public/tags/aviation/page",
-    "public/tags/aviation/index.xml",
     "images.ainslie-roensdorf.com/2026/06/1781036904435-ab0eadm6.webp.md",
-    "content/post/hello-world/index.md",
     "assets/scss/main.scss.md",
     "content/page/archives/index.md",
     "content/categories/example-category/_index.md",
