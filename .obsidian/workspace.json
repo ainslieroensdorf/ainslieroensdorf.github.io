@@ -11,12 +11,14 @@
             "id": "18c6f2869a619c84",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/profile.jpg"
+                "file": "content/post/hello-world/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "profile"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -189,32 +191,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18c6f2869a619c84",
+  "active": "7c4e3f3145988723",
   "lastOpenFiles": [
-    "config/_default/params.toml",
-    "config/_default/module.toml",
-    "config/_default/menu.toml",
-    "config/_default/markup.toml",
-    "config/_default/config.toml",
-    "config/_default/_languages.toml",
-    "assets/img/profile.jpg",
-    "config/_default/related.toml",
-    "config/_default/permalinks.toml",
-    "assets/img/avatar.png",
-    "assets/img/P1636633.jpg",
-    "P1636633.jpg",
-    "assets/img/favicon.png",
+    "assets/icons/brand-linkedin.svg",
+    "assets/icons/brand-youtube.svg",
+    "assets/icons",
+    "assets/jsconfig.json",
+    "public/index.xml",
+    "public/categories/syntax/index.xml",
+    "public/categories/themes/index.xml",
+    "public/tags/html/index.xml",
+    "public/tags/markdown/index.xml",
+    "public/tags/css/index.xml",
+    "public/tags/themes/index.xml",
+    "public/tags/test/index.xml",
+    "public/p/image-gallery/1_hu_ba10ab92dc5a4e16.jpg",
+    "public/p/shortcodes/cover_hu_2341f8bf01f13376.jpg",
+    "public/p/shortcodes/cover_hu_519d105f1e91f96f.jpg",
+    "resources/_gen/images/p/shortcodes/cover_hu_2341f8bf01f13376.jpg",
+    "public/p/shortcodes/cover_hu_ac6d9ddb3f335a9b.jpg",
+    "public/p/image-gallery/1_hu_4c8600a66f278e44.jpg",
+    "resources/_gen/images/p/shortcodes/cover_hu_ac6d9ddb3f335a9b.jpg",
+    "resources/_gen/images/p/shortcodes/cover_hu_519d105f1e91f96f.jpg",
+    "resources/_gen/images/p/image-gallery/2_hu_e511c73cee932c22.jpg",
+    "content/post/hello-world/index.md",
+    "content/page/archives/index.md",
     "content/categories/example-category/_index.md",
     "config/_default/params.toml.md",
     "content/_index.md",
     "content/page/search/index.md",
     "content/page/links/index.md",
-    "content/page/archives/index.md",
-    "content/post/hello-world/index.md",
     "README.md",
-    "content/post/hello-world/cover.jpg",
-    "Untitled.base",
-    "content/post/image-gallery/1.jpg",
     "content/post/image-gallery/index.md"
   ]
 }
