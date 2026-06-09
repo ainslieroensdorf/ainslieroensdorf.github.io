@@ -1,0 +1,13 @@
+/* Constrain Article Text Column Width */
+.article-page {
+    .main-article {
+        /* Restricts the text and inline photos from stretching too far */
+        max-width: 840px !important; 
+        margin: 0 auto !important;   /* Centers the column perfectly within the main container */
+    }
+}
+
+/* Optional: Keep the wide card background matching your page canvas */
+.article-page .article-content {
+    max-width: 100% !important;
+}
