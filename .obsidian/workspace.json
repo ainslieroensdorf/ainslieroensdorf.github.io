@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c4e3f3145988723",
+  "active": "f531c3a71a621168",
   "lastOpenFiles": [
+    "public/scss/style.min.8771f00dfc44cd70b7e0b4577534d7531cf08b884097af0f2db530c2fe57779d.css",
     "assets/icons/brand-linkedin.svg",
     "assets/icons/brand-youtube.svg",
     "assets/icons",
@@ -213,7 +214,6 @@
     "public/p/image-gallery/1_hu_4c8600a66f278e44.jpg",
     "resources/_gen/images/p/shortcodes/cover_hu_ac6d9ddb3f335a9b.jpg",
     "resources/_gen/images/p/shortcodes/cover_hu_519d105f1e91f96f.jpg",
-    "resources/_gen/images/p/image-gallery/2_hu_e511c73cee932c22.jpg",
     "content/post/hello-world/index.md",
     "content/page/archives/index.md",
     "content/categories/example-category/_index.md",
