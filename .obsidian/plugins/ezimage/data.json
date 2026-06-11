@@ -9,7 +9,7 @@
   },
   "pathTemplate": "{yyyy}/{MM}/{timestamp}-{random}.{ext}",
   "compress": true,
-  "maxWidth": 1920,
+  "maxWidth": 3000,
   "quality": 85,
   "maxFileSizeMB": 0,
   "stripExif": true,

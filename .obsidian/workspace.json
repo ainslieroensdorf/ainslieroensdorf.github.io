@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/_default/related.toml",
+                "file": "content/post/greenstone_caples/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "related"
+              "title": "index"
             }
           }
         ]
@@ -188,44 +188,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-image-auto-uploader:Custom Image Auto Uploader": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "18c6f2869a619c84",
   "lastOpenFiles": [
+    "public/1781217014810-bijyj4ss_7909360403498779768_hu_310ec4f33e4957d4.webp",
+    "public/1781217014810-bijyj4ss_7909360403498779768_hu_d374def09d827ed2.webp",
+    "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_310ec4f33e4957d4.webp",
+    "public/1781217014810-bijyj4ss_7909360403498779768_hu_bc5cb339dbc844db.webp",
+    "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_d374def09d827ed2.webp",
+    "public/1781217014810-bijyj4ss_7909360403498779768_hu_e881fb7f7c54e969.webp",
+    "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_bc5cb339dbc844db.webp",
+    "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_e881fb7f7c54e969.webp",
+    "public/1781217014810-bijyj4ss_7909360403498779768.webp",
+    "public/1781217014810-bijyj4ss_7909360403498779768_hu_79384fb61273408a.webp",
+    "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_79384fb61273408a.webp",
+    "public/tags/nz/index.xml",
+    "public/tags/nz/page/1/index.html",
+    "public/tags/nz/page/1",
+    "public/tags/nz/page",
+    "public/tags/nz/index.html",
+    "public/tags/nz",
+    "public/p/greenstone_caples/index.html",
+    "public/p/greenstone_caples",
+    "content/post/shortcodes/index.md",
+    "content/post/greenstone_caples/index.md",
+    "content/post/greenstone_caples",
+    "content/post/markdown-syntax/index.md",
+    "content/post/image-gallery/index.md",
     "content/post/barra/index.md",
-    "public/1781043381249-fu7nbxg6_568227801969510572.webp",
-    "public/1781043381249-fu7nbxg6_568227801969510572_hu_97d193ed2c638cd4.webp",
-    "resources/_gen/images/1781043381249-fu7nbxg6_568227801969510572_hu_97d193ed2c638cd4.webp",
-    "public/1781043381249-fu7nbxg6_568227801969510572_hu_b3a13c1abffe40ae.webp",
-    "resources/_gen/images/1781043381249-fu7nbxg6_568227801969510572_hu_b3a13c1abffe40ae.webp",
-    "public/1781043353994-wgib2t2t_2023037824593754901.webp",
-    "public/1781043353994-wgib2t2t_2023037824593754901_hu_c37dd5bb532c5c53.webp",
-    "resources/_gen/images/1781043353994-wgib2t2t_2023037824593754901_hu_c37dd5bb532c5c53.webp",
-    "public/1781043353994-wgib2t2t_2023037824593754901_hu_3585243ca67a119a.webp",
-    "resources/_gen/images/1781043353994-wgib2t2t_2023037824593754901_hu_3585243ca67a119a.webp",
-    "public/photos/index.xml",
-    "public/photos/page/1/index.html",
-    "public/photos/page/1",
-    "public/photos/index.html",
-    "public/photos/page",
-    "public/photos",
+    "content/page/search/index.md",
+    "content/page/archives/index.md",
+    "content/page/links/index.md",
+    "config/_default/params.toml",
     "content/photos/_index.md",
-    "content/photos",
-    "public/scss/style.min.3a4895773b8c5b5c8e81ed3e994cc8bc4c853e40cf4f2768cbd3be1417de1768.css",
-    "public/scss/style.min.b8f52ebcc19ea7f5801e85231dd52d91d59a56d3267d1ba52292ba1665e25178.css",
-    "public/scss/style.min.d42698d19b44c3dcef87304931f89e6c6d671d33fbaea529cfad7b8ad8105719.css",
     "content/post/hello-world/index.md",
     "images.ainslie-roensdorf.com/2026/06/1781036904435-ab0eadm6.webp.md",
     "assets/scss/main.scss.md",
-    "content/page/archives/index.md",
     "content/categories/example-category/_index.md",
     "config/_default/params.toml.md",
     "content/_index.md",
-    "content/page/search/index.md",
-    "content/page/links/index.md",
-    "README.md",
-    "content/post/image-gallery/index.md"
+    "README.md"
   ]
 }
