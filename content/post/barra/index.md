@@ -23,7 +23,7 @@ Our aircraft for the 76 minute flight over to Barra was G-BVVK, a 45 year old De
 
 Unsurprisingly for such a small aircraft we were up in the air very quickly. Despite the Highlands we flew over hiding behind clouds for most of the flight, conditions finally cleared up just as we neared the Outer Hebrides. 
 
-![Final approach over Eriskay (linked to South Uist by a causeway).](https://images.ainslie-roensdorf.com/2026/06/1781041403995-w9odsqto.webp)![Isle of Barra out to the left-hand side.](https://images.ainslie-roensdorf.com/2026/06/1781041657819-qks7peup.webp)
+![Onboard G-BVVK.](https://images.ainslie-roensdorf.com/2026/06/1781289573646-xhl6ey8o.webp)![Final approach over Eriskay (linked to South Uist by a causeway).](https://images.ainslie-roensdorf.com/2026/06/1781041403995-w9odsqto.webp)![Isle of Barra out to the left-hand side.](https://images.ainslie-roensdorf.com/2026/06/1781041657819-qks7peup.webp)
 
 Avgeeks will know that Barra Airport is unique for being the only commercial airport in the world to use a beach as its runway. The final approach and landing in Barra was absolutely glorious with the sun coming out at exactly the right time. Despite touching down on sand rather than tarmac, it was surprisingly smooth!
 
