@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/greenstone_caples/index.md",
+                "file": "content/post/barra/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,6 +193,7 @@
   },
   "active": "18c6f2869a619c84",
   "lastOpenFiles": [
+    "content/post/greenstone_caples/index.md",
     "public/1781217014810-bijyj4ss_7909360403498779768_hu_310ec4f33e4957d4.webp",
     "public/1781217014810-bijyj4ss_7909360403498779768_hu_d374def09d827ed2.webp",
     "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_310ec4f33e4957d4.webp",
@@ -203,7 +204,6 @@
     "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_e881fb7f7c54e969.webp",
     "public/1781217014810-bijyj4ss_7909360403498779768.webp",
     "public/1781217014810-bijyj4ss_7909360403498779768_hu_79384fb61273408a.webp",
-    "resources/_gen/images/1781217014810-bijyj4ss_7909360403498779768_hu_79384fb61273408a.webp",
     "public/tags/nz/index.xml",
     "public/tags/nz/page/1/index.html",
     "public/tags/nz/page/1",
@@ -213,7 +213,6 @@
     "public/p/greenstone_caples/index.html",
     "public/p/greenstone_caples",
     "content/post/shortcodes/index.md",
-    "content/post/greenstone_caples/index.md",
     "content/post/greenstone_caples",
     "content/post/markdown-syntax/index.md",
     "content/post/image-gallery/index.md",
