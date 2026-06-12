@@ -71,3 +71,5 @@ My return flight was operated by G-HIAL, owned by Transport Scotland, and bearin
 We managed to have good weather until we passed over Arrochar, at which point the forewarned turbulence arrived and it was a bumpy landing into Glasgow.
 
 Flying between places often involves some crazy contrasts, but going from  stepping onto an aircraft with sandy boots and taking off from a beach on an island in the middle of nowhere, to arriving at an international airport and taxiing past an A380 is a whole new level.
+
+![Back at GLA facing an A380.](https://images.ainslie-roensdorf.com/2026/06/1781289394692-udnejcbi.webp)![Only a footstool required!](https://images.ainslie-roensdorf.com/2026/06/1781289433526-oakblme8.webp)
