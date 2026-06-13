@@ -1,4 +1,4 @@
-# Change baseurl before deploy
+timeout = "10m"
 baseurl = "https://starter.stack.cai.im/"
 locale  = "en-us"
 title   = "Ainslie Rönsdorf"
@@ -17,4 +17,3 @@ disqusShortname = "hugo-theme-stack"
 [pagination]
     pagerSize = 5
 
-timeout = "10m"
