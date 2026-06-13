@@ -11,3 +11,95 @@
 .article-page .article-content {
     max-width: 100% !important;
 }
+
+/* ==========================================================================
+   Refined Dark Mode: Pure Black Canvas & Pure Black RHS Widgets
+   ========================================================================= */
+
+html[data-scheme="dark"] {
+    /* Main site canvas background stays pitch black */
+    body, 
+    .main-container, 
+    .article-page, 
+    .post-container, 
+    .sidebar {
+        --body-background: #000000 !important;
+        --background: #000000 !important;
+        background-color: #000000 !important;
+    }
+
+    /* Keep the main article post cards very dark gray as you requested */
+    .article, 
+    .article-content, 
+    .article-header, 
+    .main-article {
+        --card-background: #121214 !important;
+        --entry-background: #121214 !important;
+        --article-background: #121214 !important;
+        background: #121214 !important;
+        background-color: #121214 !important;
+        border: none !important;
+    }
+
+    /* 🎯 FIX RHS WIDGETS: Force Search, Archives, Categories, and Tags to pure black */
+    .widget {
+        --card-background: #000000 !important;
+        background: #000000 !important;
+        background-color: #000000 !important;
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+    /* Clean up the border lines inside the archive lists */
+    .widget-archive--list li {
+        border-color: #1c1c1e !important;
+    }
+
+    /* Text adjustment for high contrast readability */
+    .article-title a, 
+    .sidebar .menu a, 
+    .article-subtitle,
+    .article-content,
+    .widget-title {
+        color: #f3f4f6 !important; 
+    }
+}
+
+
+/* ==========================================================================
+   Interactive Collapsible Table of Contents (ToC)
+   ========================================================================== */
+
+/* Style the ToC header to look like a clean clickable button */
+.article-page .widget.toc .widget-title {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    user-select: none;
+    padding: 4px 0;
+}
+
+/* Add a clean micro-arrow indicator that rotates when toggled */
+.article-page .widget.toc .widget-title::after {
+    content: '➔';
+    font-size: 10px;
+    transition: transform 0.2s ease;
+    opacity: 0.5;
+}
+
+/* Rotate the arrow downward when the ToC is active/expanded */
+.article-page .widget.toc.is-active .widget-title::after {
+    transform: rotate(90deg);
+}
+
+/* Smoothly collapse the list out of view when inactive */
+.article-page .widget.toc #TableOfContents {
+    display: none; /* Hidden by default */
+    margin-top: 1rem;
+}
+
+/* Reveal the list when the active class is toggled on */
+.article-page .widget.toc.is-active #TableOfContents {
+    display: block;
+}

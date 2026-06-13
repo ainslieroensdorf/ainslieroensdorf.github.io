@@ -1,0 +1,14 @@
+<script>
+    // Safe execution loop ensuring the DOM elements are fully painted
+    window.addEventListener('DOMContentLoaded', () => {
+        const tocWidget = document.querySelector(".widget.toc");
+        if (tocWidget) {
+            const tocTitle = tocWidget.querySelector(".widget-title");
+            
+            // Set initial state arrow behavior
+            tocTitle.addEventListener("click", () => {
+                tocWidget.classList.toggle("is-active");
+            });
+        }
+    });
+</script>
