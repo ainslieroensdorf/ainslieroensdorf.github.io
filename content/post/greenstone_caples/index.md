@@ -83,4 +83,8 @@ Walking back to the carpark was sunny but cold, and very nostalgic of wintery sc
 ![Nearing civilization](https://images.ainslie-roensdorf.com/2026/06/1781387048051-o34s7bjj.webp)
 ![Three happy trampers](https://images.ainslie-roensdorf.com/2026/06/1781387005734-2l6c7t0r.webp)
 
+I also made a short film which you can enjoy below:
+
+{{< youtube FzHY2L6Dr0o >}}
+
 [^1]: Te Araroa, a 3,000 km tramping route stretching from Cape Reinga at the northernmost tip of North Island down to Bluff at the bottom of South Island. It generally takes 3-6 months to complete.
